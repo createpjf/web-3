@@ -5,4 +5,4 @@
 # 2. web3 various types of job demand status breakdown (NFT , defi, blockchain)
 # 3. web3 positions global geographical distribution
 
-#Data source:https://web3.career/
+#Data source: https://web3.career/
